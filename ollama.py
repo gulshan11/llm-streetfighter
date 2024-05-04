@@ -21,7 +21,7 @@ def main():
             model="ollama:gemma:2b",
         ),
         player_2=Player2(
-            nickname="Qwen",
+            nickname="TinyLlama",
             model="tinyllama:latest",
         ),
     )
